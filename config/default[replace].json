@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://employee:8rBaFx6PVJ7XAUQW@cluster0.meuwrew.mongodb.net/freshbnb?retryWrites=true&w=majority",
+  "jwtSecret": "some_unique_value"
+}
